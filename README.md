@@ -4,7 +4,7 @@
 ---
 A MERN stack application e-commerce site that also uses Stripe payments.
 
-[Deployed Application](https://redux-store-95.herokuapp.com/)
+[Deployed Application](https://richard-lim-redux-store.herokuapp.com/)
 
 Below is a screenshot of the application:
 ![](./redux-store-95.herokuapp.com_.png)
